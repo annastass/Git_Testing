@@ -1,6 +1,6 @@
 //добавить функциюggit
 alert("We are testing Git...");
-function learningGit(){
-    console.log("learning...")
+function testingGit(){
+    console.log("Testing...")
     console.log("completed")
 };
